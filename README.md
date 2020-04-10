@@ -2,6 +2,8 @@
 XCode 报错如下：
 Could not locate device support files. 
 
+Gitee 地址（国内用户推荐使用此地址进行下载或者克隆）：https://gitee.com/angeyu/ios-sdk
+
 解决方法：
 下载对应的 IOS 真机运行支持包并复制在 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport 目录中
 
